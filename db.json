@@ -1,4 +1,5 @@
-[
+{
+  "allcamigns: [
   {
     "campaignId": "campaign_food_hunt",
     "title": "Food Hunt",
@@ -6,3 +7,4 @@
     "shortDescription": "Gather your family and friends to start earning 210,000 points now!"
   }
 ]
+}
